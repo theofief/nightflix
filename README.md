@@ -1,15 +1,12 @@
 # 🎬 Nightflix
 
 A clean streaming platform displaying movie and series trailers only.  
-⚠️ No movie database included – you’ll need to plug in your own.
+⚠️ No movie database included
 
 ---
 
 ## 🌟 Features
-
-- 🖥️ Netflix-inspired interface
 - 🎥 Trailer streaming (video links only)
-- 🔍 Smart filtering & search (planned)
 - 💾 Clean UI built for performance
 - 🧩 Modular structure, easy to customize
 
@@ -17,10 +14,10 @@ A clean streaming platform displaying movie and series trailers only.
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React / Next.js (or your chosen frontend stack)
-- 🧱 Styled with Montserrat & custom CSS
+- ⚛️ PHP
+- 🧱 Styled with custom CSS
 - 🌐 Responsive design (desktop/mobile)
-- 🚫 No backend or DB included – frontend only
+- 🚫 No DB included
 
 ---
 
@@ -28,16 +25,10 @@ A clean streaming platform displaying movie and series trailers only.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/nightflix.git
+https://github.com/theofief/nightflix.git
 
 # Navigate into the project
 cd nightflix
-
-# Install dependencies
-npm install
-
-# Start the dev server
-npm run dev
 ```
 
 ## 📄 License
@@ -50,6 +41,7 @@ Feel free to use, modify, and share!
 # 🚀 Roadmap (Ideas)
   - Add watchlist / favorites ⭐
   -	Choose between multiple players ⭐
+  -	Search filters ⭐
 
 ---
 
