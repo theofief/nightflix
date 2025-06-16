@@ -51,7 +51,7 @@ This project is provided for **educational and personal use only**.
 I do **not condone** or encourage the creation or use of illegal streaming websites.  
 I am **not responsible** for any misuse or deployment of this code for infringing purposes.
 
-📁 A small database of **movie trailers only** is included in the `DB` folder.  
+📁 A small database of **movie trailers only** is included in the `DB` folder. Default user is "Admin" / "admin@gmail.com" with password "mdp"
 You can run the project locally using tools like **MAMP**, **XAMPP**, or any local server setup.
 
 Use it wisely and ethically 🙏
