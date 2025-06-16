@@ -42,7 +42,7 @@ npm run dev
 
 ## 📄 License
 
-MIT © 2025 – Built with ❤️ by かぶと
+MIT © 2025 – Built with ❤️ by Théo Fief
 Feel free to use, modify, and share!
 
 ---
